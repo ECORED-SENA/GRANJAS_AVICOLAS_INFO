@@ -55,8 +55,8 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'Juan Carlos Tapias Rueda',
+        cargo: 'Diseño web ',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -67,7 +67,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Cáceres',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'María Carolina Tamayo López ',
+          'Daniela Muñoz Bedoya',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

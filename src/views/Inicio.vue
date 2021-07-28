@@ -43,7 +43,7 @@ section
       |El SENA oferta este programa que incluye las temáticas de bioseguridad, proceso de producción, bienestar animal, trazabilidad, planes operativos estandarizados de sanitización, control de planes de impacto ambiental, manejo administrativo, entre otros.
       br
       br
-      |Generando mayores oportunidades de productividad, competitividad, empleabilidad y emprendimiento, apuntando al desarrollo del campo como motor de la economía rural
+      |Generando mayores oportunidades de productividad, competitividad, empleabilidad y emprendimiento, apuntando al desarrollo del campo como motor de la economía rural.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
@@ -102,6 +102,9 @@ section
         li 
           i.fas.fa-angle-right
           | Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo.
+        li 
+          i.fas.fa-angle-right
+          | Utilizar herramientas informáticas de acuerdo con necesidades de manejo de información.
         li 
           i.fas.fa-angle-right
           | Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.

@@ -56,7 +56,7 @@ export default {
       },
       {
         nombre: 'Juan Carlos Tapias Rueda',
-        cargo: 'Diseño web ',
+        cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -67,14 +67,37 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: [
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Andrés Arenales Cáceres',
-          'Gilberto Junior Rodríguez Rodríguez',
-          'María Carolina Tamayo López ',
-          'Daniela Muñoz Bedoya',
-        ],
+        nombre: ['Zuleidy Maria Ruiz Torres'],
         cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: ['Wilson Andrés Arenales Cáceres'],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: ['Gilberto Junior Rodríguez Rodríguez'],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: ['María Carolina Tamayo López '],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: ['Daniela Muñoz Bedoya'],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Emilsen Alfonso Bautista',
+        cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
